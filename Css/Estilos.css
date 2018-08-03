@@ -1,0 +1,35 @@
+body {
+	background-color: white;
+}
+h1{
+	text-align: center;
+	color: gray;
+}
+.Tx1{
+	font-size: 50px;
+	color: purple;
+}
+.Tx2 {
+	font-size: 65px;
+	color: brown;
+}
+.em1, code, s, abbr { /* punto va anticipado ante cada nombre de clase*/ /* si quiero que dos etiquetas tengan el mismo estilo poner los dos nombres con ,*/
+
+	color: #AB0008;
+	font-size: 45px;
+}
+.em2 {
+	color: red; 
+	font-size: 45px;
+}
+strong {
+	font-size: 34px;
+	color: orange;
+}
+.Tx3 {
+	font-size: 35px;
+	color: purple;
+}
+.Tx3 em{
+	color: red;
+}
