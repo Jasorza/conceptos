@@ -13,7 +13,8 @@ h1{
 	font-size: 65px;
 	color: brown;
 }
-.em1, code, s, abbr { /* punto va anticipado ante cada nombre de clase*/ /* si quiero que dos etiquetas tengan el mismo estilo poner los dos nombres con ,*/
+.em1, code, s, abbr { /* punto va anticipado ante cada nombre de clase*/ /* si quiero 
+				que dos etiquetas tengan el mismo estilo poner los dos nombres con ,*/
 
 	color: #AB0008;
 	font-size: 45px;
